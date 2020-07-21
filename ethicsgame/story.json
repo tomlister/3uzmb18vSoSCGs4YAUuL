@@ -1,0 +1,112 @@
+{
+    "intro_00": {
+        "id":0,
+        "type": "image",
+        "content": {
+            "image": "intro_00_image",
+            "choice0_text": "end",
+            "choice1_text": "start",
+            "choice0_action": 2,
+            "choice1_action": 1
+        }
+    },
+    "intro_01": {
+        "id":1,
+        "type": "image",
+        "content": {
+            "image": "01_image",
+            "choice0_text": "patch",
+            "choice1_text" : "leave",
+            "choice0_action": 3,
+            "choice1_action": 2
+        }
+    },
+    "intro_02": {
+        "id":2,
+        "type": "image",
+        "content": {
+            "image": "02_image",
+            "choice0_text": "also next",
+            "choice1_text" : "next",
+            "choice0_action": 3,
+            "choice1_action": 3
+        }
+    },
+    "intro_03": {
+        "id":3,
+        "type": "image",
+        "content": {
+            "image": "03_image",
+            "choice0_text": "report",
+            "choice1_text" : "leave",
+            "choice0_action": 5,
+            "choice1_action": 4
+        }
+    },
+    "intro_04": {
+        "id":4,
+        "type": "image",
+        "content": {
+            "image": "04_image",
+            "choice0_text": "also next",
+            "choice1_text" : "next",
+            "choice0_action": 5,
+            "choice1_action": 5
+        }
+    },
+    "intro_05": {
+        "id":5,
+        "type": "image",
+        "content": {
+            "image": "05_image",
+            "choice0_text": "refuse",
+            "choice1_text" : "collect",
+            "choice0_action": 7,
+            "choice1_action": 6
+        }
+    },
+    "intro_06": {
+        "id":6,
+        "type": "image",
+        "content": {
+            "image": "06_image",
+            "choice0_text": "also next",
+            "choice1_text" : "next",
+            "choice0_action": 7,
+            "choice1_action": 7
+        }
+    },
+    "intro_07": {
+        "id":7,
+        "type": "image",
+        "content": {
+            "image": "07_image",
+            "choice0_text": "obey your orders",
+            "choice1_text" : "refuse",
+            "choice0_action": 8,
+            "choice1_action": 9
+        }
+    },
+    "intro_08": {
+        "id":8,
+        "type": "image",
+        "content": {
+            "image": "08_image",
+            "choice0_text": "also next",
+            "choice1_text" : "next",
+            "choice0_action": 9,
+            "choice1_action": 9
+        }
+    },
+    "intro_09": {
+        "id":9,
+        "type": "image",
+        "content": {
+            "image": "09_image",
+            "choice0_text": "",
+            "choice1_text" : "",
+            "choice0_action": 9,
+            "choice1_action": 9
+        }
+    }
+}

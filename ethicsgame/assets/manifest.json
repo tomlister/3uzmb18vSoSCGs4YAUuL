@@ -1,0 +1,32 @@
+{
+    "intro_00_image": {
+        "location": "00.png"
+    },
+    "01_image": {
+        "location": "01.png"
+    },
+    "02_image": {
+        "location": "02.png"
+    },
+    "03_image": {
+        "location": "03.png"
+    },
+    "04_image": {
+        "location": "04.png"
+    },
+    "05_image": {
+        "location": "05.png"
+    },
+    "06_image": {
+        "location": "06.png"
+    },
+    "07_image": {
+        "location": "07.png"
+    },
+    "08_image": {
+        "location": "08.png"
+    },
+    "09_image": {
+        "location": "09.png"
+    }
+}
